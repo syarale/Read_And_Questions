@@ -1,16 +1,16 @@
 # CS Questions
 
 
-##### 问题1：strlen 和 sizeof的区别：当参数分别为数组（初始化，未初始化），指针时
+#### 问题1：strlen 和 sizeof的区别：当参数分别为数组（初始化，未初始化），指针时
 &#8195; 注：注意strlen以 '\0' 为结束符
 
 
-##### 问题2：远程过程调用（RPC）
+#### 问题2：远程过程调用（RPC）
 
 - 远程过程调用(RPC)详解：https://waylau.com/remote-procedure-calls/
-- ​论文：Implementing remote procedure calls
+- 论文：Implementing remote procedure calls
 
-##### 问题3：使用vfork时, 在子进程的main函数中使用return和exit的区别
+#### 问题3：使用vfork时, 在子进程的main函数中使用return和exit的区别
 
 1. 参考文献:
    - C语言里，main 函数中 return x和 exit(x) 到底有什么区别?
